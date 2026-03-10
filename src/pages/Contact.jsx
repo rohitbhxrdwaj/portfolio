@@ -70,13 +70,13 @@ const Contact = () => {
             <div className="contact-social">
               <h4>Find me on</h4>
               <div className="social-links">
-                <a href="https://github.com/rohitbhxrdwaj" target="_blank" rel="noreferrer" className="social-icon">
+                <a href="https://github.com/rohitbhxrdwaj" target="_blank" rel="noopener noreferrer" className="social-icon">
                   <FaGithub size={22} />
                 </a>
-                <a href="#" target="_blank" rel="noreferrer" className="social-icon">
+                <a href="https://www.linkedin.com/in/rohit-bhardwaj/" target="_blank" rel="noopener noreferrer" className="social-icon">
                   <FaLinkedin size={22} />
                 </a>
-                <a href="#" target="_blank" rel="noreferrer" className="social-icon">
+                <a href="#" target="_blank" rel="noopener noreferrer" className="social-icon">
                   <FaTwitter size={22} />
                 </a>
               </div>

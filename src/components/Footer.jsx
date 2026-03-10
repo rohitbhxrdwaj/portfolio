@@ -11,10 +11,10 @@ const Footer = () => {
           <p>MERN Stack Developer</p>
         </div>
         <div className="footer-social">
-          <a href="https://github.com/rohitbhxrdwaj" target="_blank" rel="noreferrer" aria-label="GitHub">
+          <a href="https://github.com/rohitbhxrdwaj" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
             <FaGithub size={24} />
           </a>
-          <a href="#" target="_blank" rel="noreferrer" aria-label="LinkedIn">
+          <a href="https://www.linkedin.com/in/rohit-bhardwaj/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
             <FaLinkedin size={24} />
           </a>
           <a href="mailto:bhardwajrohit9294@gmail.com" aria-label="Email">
