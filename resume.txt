@@ -1,0 +1,37 @@
+Rohit Bhardwaj
+MERN Stack Developer
+§rohitbhxrdwaj  |#bhardwajrohit9294@gmail.com  |H+91 7006892717   |Kathua, Jammu & Kashmir
+Summary
+Passionate and results-driven MERN Stack Developer  skilled in building scalable, responsive, and user-centric web
+applications using MongoDB, Express.js, React.js, and Node.js.  Experienced in crafting RESTful APIs, integrating
+front-end with back-end,  and deploying full-stack solutions.  Strong foundation in JavaScript,  problem-solving,  and
+modern development practices.  Focused on writing clean, efficient, and maintainable code to deliver impactful digital
+experiences.
+Projects
+ShopSphere - E-Commerce Platform                           React, Node.js, Express, MongoDB, JWT
+•Built a full-stack e-commerce platform with authentication, product catalog, and shopping cart.
+•Implemented JWT authentication, bcrypt password hashing, and REST APIs.
+•Designed responsive UI with React and Tailwind CSS.
+Weather App                                                   React, Tailwind, OpenWeather API
+•Developed responsive app to fetch real-time weather data with city-based search.
+•Displayed temperature, humidity, and weather icons in a clean UI.
+Todo List App                                                               React, LocalStorage
+•Designed a task manager with add, edit, delete, and filter features (All, Completed, Pending).
+•Used LocalStorage to persist tasks across sessions.
+Education
+2022 – 2026    B.E. Computer Science & Engineering,    Chandigarh University, Mohali            (CGPA: 6.9)
+2019 – 2020    Intermediate (JKBOSE),   RSJN School, Kathua                                  (75.25%)
+2017 – 2018    Matriculation (JKBOSE),    RSJN School, Kathua                                   (77%)
+Skills
+Frontend   React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap
+Backend   Node.js, Express.js
+Database   MongoDB, MySQL
+Tools      Git, GitHub, VS Code
+Other      REST API Development, Responsive Design, Data Structures & Algorithms
+Soft Skills   Teamwork, Communication, Time Management
+Certifications
+•Web Development Training (Summer 2024)    – Learned MERN stack fundamentals and built mini-projects
+(portfolio, todo app, weather app).
+•The Complete Web Development Bootcamp (Udemy)    – Covered full-stack web development (HTML, CSS,
+JS, Node.js, Express, MongoDB, React).
+----------------Page (0) Break----------------
